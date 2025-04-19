@@ -13,5 +13,4 @@ The **Bell System** is an automated scheduling system developed for my school **
 - **C#** – Core programming language  
 - **ASP.NET** – Application framework  
  
-   ```sh
   
