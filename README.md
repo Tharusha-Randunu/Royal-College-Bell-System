@@ -14,5 +14,4 @@ The **Bell System** is an automated scheduling system developed for my school **
 - **ASP.NET** – Application framework  
  
    ```sh
-   git clone https://github.com/your-username/royal-college-bell-system.git
-   cd royal-college-bell-system
+  
